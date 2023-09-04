@@ -11,7 +11,6 @@ I have a collection of over 300 different rare coins. My goal is to find a penny
 |**Sport name**|                        **reason for playing**                     | **hours of playing**|
 
 |:-------------|:-----------------------------------------------------------------:|--------------------:|
-
 | Basketball   | Basketball promotes speed, agility, strength, power and endurance.|    13 hour          |
 | Tennis       | Tennis is a good sport for maintaining health and agility.        |    4 hours          |
 | Hiking       | Hiking helps reduce your risk of heart disease and blood pressure.|    2 hour           |
