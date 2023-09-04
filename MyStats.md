@@ -24,7 +24,7 @@ I have a collection of over 300 different rare coins. My goal is to find a penny
 > -- *Albert Einstein*
 
 
-> "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the   world.
+> "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the   world."
 >
 > -- *Louis Pasteur*
 
