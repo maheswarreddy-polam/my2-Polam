@@ -8,7 +8,7 @@ I have a collection of over 300 different rare coins. My goal is to find a penny
 
 # Sports Table
 
-|**Sport name**|                          **reason for playing**                      | **hours of playing**|
+|**Sport name**|                          **reason for playing**                   | **hours of playing**|
 
 |:-------------|:-----------------------------------------------------------------:|--------------------:|
 
