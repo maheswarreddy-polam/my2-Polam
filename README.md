@@ -24,3 +24,5 @@ Glaciers are the main draw of this Montana national park, but its more than 700 
 
 * huckleberry cobbler
 
+![Linking MyStats file to README](./MyStats.md)
+
